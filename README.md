@@ -11,7 +11,7 @@ We used Mailchimp API for sending newsletter to our subscribers. So this REST AP
 2. Install dependencies with `yarn install`
 3. Rename `.env.sample` to `.env`
 4. Update variables in `.env` file
-5Run project in development mode with `yarn dev`
+5. Run project in development mode with `yarn dev`
 
 ## Deployment
 0. *[PREDISPOSITION]: Install Docker on deployment server*
