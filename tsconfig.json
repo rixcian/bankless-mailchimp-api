@@ -4,12 +4,6 @@
 
     "baseUrl": "./src",
     "paths": {
-      "@entities/*": [
-        "./db/entities/*"
-      ],
-      "@db/*": [
-        "./db/*"
-      ],
       "@utils/*": [
         "./utils/*"
       ]
